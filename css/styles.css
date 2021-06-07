@@ -1,0 +1,33 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background: hsl(60,97%,87%);
+}
+.name{
+    background: hsl(40,93%,77%);
+    border-radius: 15px;
+    text-align: center
+}
+.list_project{
+    background: hsl(222,51%,93%);
+    border-radius: 15px;
+    
+}
+.about-me{
+    background: hsl(12,57%,82%);
+    border-radius: 15px;
+}
+.my-hobby{
+    background:hsl(84,89%,68%);
+    border-radius: 15px;
+}
+h1, h2, p{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+} 
