@@ -6,4 +6,11 @@
 ##  About me
     About my background education I get my bachelor in 2019 in Business.
     I have no background in computer science that why I choose Moringa School to learn some skills in programming
+    
+    I do not have a lot hobbies but i have some and I can share
+    -   Play video game
+    -   Listen musics
+    -   Read Books
+    -   Go to party with friends
+   
    
